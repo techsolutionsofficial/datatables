@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css2?family=Ubuntu:wght@100;200;300;400;500;600;700&display=swap);
+
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+/* 
+#490B3D
+
+#BD1E51
+
+#F1B814
+ */
+
+.form-group {
+  margin-bottom: 1rem;
+}
